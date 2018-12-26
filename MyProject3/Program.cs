@@ -182,7 +182,7 @@ namespace ConsoleApp1
             time.Start();
 
 
-            int[] arry = new int[100000];
+            int[] arry = new int[1000];
 
             Random rnd = new Random();
 
